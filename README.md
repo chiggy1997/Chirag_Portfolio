@@ -10,4 +10,4 @@ In this project, I performed portfolio analysis such as calculating returns, ris
 In this project, I trained a Ridge regression model and deep neural network model to predict future stock prices.
 The AI model will be trained using historical stock price data along with volume of transactions.
 
-![](https://github.com/chiggy1997/Chirag_Portfolio/blob/main/images/StockPriceML_Slide7.PNG)
+![](/images/StockPriceML_Slide7.PNG)
